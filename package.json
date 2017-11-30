@@ -24,7 +24,7 @@
     "url": "https://github.com/derek-oneill/passport-saml-encrypted/issues"
   },
   "publishConfig": {
-    "registry": "http://docker.entrinsik.com:8081/repository/entNPM"
+    "registry": "https://docker.entrinsik.com/repository/entNPM"
   },
   "dependencies": {
     "passport-strategy": "*",
