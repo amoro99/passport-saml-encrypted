@@ -1,6 +1,6 @@
 {
   "name": "passport-saml-encrypted-entrinsik",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Passport strategy for handling encrypted SAML authentication responses",
   "main": "index.js",
   "scripts": {
@@ -32,7 +32,7 @@
     "xml-crypto": "0.8.4",
     "xmlbuilder": "^8.2.2",
     "xmldom": "~0.1.19",
-    "xml-encryption": "~0.7.2",
+    "xml-encryption": "~0.11.2",
     "xpath": "0.0.5",
     "passport": "^0.3.x"
   }
