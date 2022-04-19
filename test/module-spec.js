@@ -38,7 +38,7 @@ describe('The passport-saml-encrypted-entrinsik module', async () => {
             protocol: 'https://',
             path: 'someidp.com/saml/2.0/auth',
             callbackUrl: 'https://generalsoftware.com/auth',
-            entryPoint: 'https://someidp.com/saml/2.0/auth?id=foo',
+            entryPoint: 'https://someidp.com/saml/2.0/auth',
             privateCert,
             signatureAlgorithm: 'RSA-SHA256'
         });
